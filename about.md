@@ -7,13 +7,17 @@ sitemap:
     lastmod: 2018-09-11
     changefreq: weekly
 ---
-## About our Site
+## About
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+This is a blog and portfolio run and managed by Emmanuel Medina. I am a musician, podcaster, and audio editor out of Southern California.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+I am currently an editor for the [Voicing Valiant](anchor.fm/voicingvaliant) Podcast, as well as the editor and one of the hosts of [Strike a Chord](https://localmusicnet.wordpress.com/strike-a-chord/). Podcasting has become my life, so expect that list to grow.
+
+I am also the current bassist and former drummer for [Unstoppable Force](unstoppableforce.band) and you can hear my playing drums on the album [Appropriate for Distribution](https://open.spotify.com/album/5XHoS0RDHw5M5Bl8pMIZ07?si=JZvXcc3URuKIJ7dSWK_7qg). Besides that, you can catch Unstoppable Force playing around the Greater LA Metropolitan area, including our fav venues, Chain Reaction, Malones, the Legacy Room, and the Whisky a Go Go.
+
+
 
 ### Content is Imortant
 <div class="box">
@@ -24,4 +28,10 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
 
 <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+You can find me on social media, mostly out of obligation, but also because I just really enjoy it. 
+[Instagram](https://www.instagram.com/zazathebassist/): Mostly my photography or events and thigns I do
+[Twitter](https://twitter.com/zazathebassist): Tech podcast and political retweets, easiest way to reach me
+[Local Musicians Netowrk](https://localmusicnet.wordpress.com/): Site about the music scene in LA and SoCal. I am a guest writer
+[Mastodon](https://ohnomy.rocks/@zaza): Like the above, but more left leaning and hipster
+[Zaza.Social](http://zaza.social): If you really like recursion
+[xkcd](): My favorite web comic. Really has nothing to do with me other than sharing my sense of humor
