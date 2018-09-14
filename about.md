@@ -31,13 +31,13 @@ I am also the current bassist and former drummer for [Unstoppable Force](unstopp
 You can find me on social media, mostly out of obligation, but also because I just really enjoy it. 
 
 [Instagram](https://www.instagram.com/zazathebassist/): Mostly my photography or events and thigns I do
-
+<br>
 [Twitter](https://twitter.com/zazathebassist): Tech podcast and political retweets, easiest way to reach me
-
+<br>
 [Local Musicians Netowrk](https://localmusicnet.wordpress.com/): Site about the music scene in LA and SoCal. I am a guest writer
-
+<br>
 [Mastodon](https://ohnomy.rocks/@zaza): Like the above, but more left leaning and hipster
-
+<br>
 [Zaza.Social](http://zaza.social): If you really like recursion
-
+<br>
 [xkcd](): My favorite web comic. Really has nothing to do with me other than sharing my sense of humor
