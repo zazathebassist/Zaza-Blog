@@ -19,10 +19,10 @@ I am also the current bassist and former drummer for [Unstoppable Force](unstopp
 
 
 
-### Content is Imortant
+<!---### Content is Imortant--->
 <div class="box">
   <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
+  Besides those experiments in media, I will be working hard to increase my written content output. Content about Music will go to the Local Musicians Network, and tech and feels content will go here. 
   </p>
 </div>
 
@@ -34,9 +34,9 @@ You can find me on social media, mostly out of obligation, but also because I ju
 <br>
 [Twitter](https://twitter.com/zazathebassist): Tech podcast and political retweets, easiest way to reach me
 <br>
-[Local Musicians Netowrk](https://localmusicnet.wordpress.com/): Site about the music scene in LA and SoCal. I am a guest writer
+[Local Musicians Network](https://localmusicnet.wordpress.com/): Site about the music scene in LA and SoCal. I am a guest writer
 <br>
-[Mastodon](https://ohnomy.rocks/@zaza): Like the above, but more left leaning and hipster
+[Mastodon](https://ohnomy.rocks/@zaza): Like the above, but more left leaning and hipster. I'm on the ohnomy.rocks instance, for anyone who understands Mastodon.
 <br>
 [Zaza.Social](http://zaza.social): If you really like recursion
 <br>
