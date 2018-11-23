@@ -3,7 +3,7 @@ title:              Project Incomplete
 bio:                "Emmanuel Medina's Personal Blog, Portfolio, and page to mess around"
 description:        "Emmanuel Medina's Personal Blog, Portfolio, and page to mess around"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/zazathebassist.github.io" # the subpath of your site, e.g. /blog
 url: "zaza.studio" # the base hostname & protocol for your site
 
 defaults:
