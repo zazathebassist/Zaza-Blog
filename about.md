@@ -9,7 +9,9 @@ sitemap:
 ---
 ## About
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/zaza.jpg" | absolute_url }}" alt="" /></span>
+
+<!-- ![I have to post an image of me... don't judge](/images/zaza.jpg "Me the Musician... I guess") -->
 
 This is a blog and portfolio run and managed by Emmanuel Medina. I am a musician, podcaster, and audio editor out of Southern California.
 
@@ -26,7 +28,9 @@ I am also the current bassist and former drummer for [Unstoppable Force](unstopp
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<!--span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span-->
+
+---
 
 #### Social Media
 
@@ -43,6 +47,8 @@ You can find me on social media, mostly out of obligation, but also because I ju
 [Zaza.Social](http://zaza.social): If you really like recursion
 <br>
 [xkcd](xkcd.com): My favorite web comic. Really has nothing to do with me other than sharing my sense of humor.
+
+---
 
 #### Blog Tech
 

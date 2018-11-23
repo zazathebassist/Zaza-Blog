@@ -5,9 +5,9 @@ date:   2018-11-21 02:39:53 -0700
 categories: project update
 ---
 
+<blockquote> I've had two blogs, and abandoned both. So... I'm launching my third blog... What am I Doing Here. </blockquote>
 
-<blockquote> So... I'm launching my third blog... What am I Doing Here. </blockquote>
-
+<div style="text-align:center"><img src="{{ "/images/Blog-text.png" | absolute_url }}" alt="Side note, Atom is a fantastic text editor" /></div>
 
 I ask myself that all too much. This is the 3rd blog I try(4th if you count tumblr... I don't) in earnest to start. And it's been up in some capacity since September, without updates, so even before I get it in a decent state I already feel like I failed(I talk more about my view on failure Here). But here I am. Starting fresh with a new blog in a new place.
 
