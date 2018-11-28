@@ -15,9 +15,9 @@ sitemap:
 
 This is a blog and portfolio run and managed by Emmanuel Medina. I am a musician, podcaster, and audio editor out of Southern California.
 
-I am currently an editor for the [Voicing Valiant](anchor.fm/voicingvaliant) Podcast, as well as the editor and one of the hosts of [Strike a Chord](https://localmusicnet.wordpress.com/strike-a-chord/), and the editor and host of [Two Dudes and a Dick](anchor.fm/two-dudes)(name change pending). Podcasting has become my life, so expect that list to grow.
+I am currently an editor for the [Voicing Valiant](https://anchor.fm/voicingvaliant) Podcast, as well as the editor and one of the hosts of [Strike a Chord](https://localmusicnet.wordpress.com/strike-a-chord/), and the editor and host of [Two Dudes and a Dick](https://anchor.fm/two-dudes)(name change pending). Podcasting has become my life, so expect that list to grow.
 
-I am also the current bassist and former drummer for [Unstoppable Force](unstoppableforce.band) and you can hear my playing drums on the album [Appropriate for Distribution](https://open.spotify.com/album/5XHoS0RDHw5M5Bl8pMIZ07?si=JZvXcc3URuKIJ7dSWK_7qg). Besides that, you can catch Unstoppable Force playing around the Greater LA Metropolitan area, including our fav venues, Chain Reaction, Malones, the Legacy Room, and the Whisky a Go Go. Currently, the band is going in for recording our next EP, so that's something to look out for.
+I am also the current bassist and former drummer for [Unstoppable Force](http://unstoppableforce.band) and you can hear my playing drums on the album [Appropriate for Distribution](https://open.spotify.com/album/5XHoS0RDHw5M5Bl8pMIZ07?si=JZvXcc3URuKIJ7dSWK_7qg). Besides that, you can catch Unstoppable Force playing around the Greater LA Metropolitan area, including our fav venues, Chain Reaction, Malones, the Legacy Room, and the Whisky a Go Go. Currently, the band is going in for recording our next EP, so that's something to look out for.
 
 
 
@@ -46,13 +46,13 @@ You can find me on social media, mostly out of obligation, but also because I ju
 <br>
 [Zaza.Social](http://zaza.social): If you really like recursion
 <br>
-[xkcd](xkcd.com): My favorite web comic. Really has nothing to do with me other than sharing my sense of humor.
+[xkcd](https://xkcd.com): My favorite web comic. Really has nothing to do with me other than sharing my sense of humor.
 
 ---
 
 #### Blog Tech
 
-The blog itself is a [Jekyll](https://jekyllrb.com) blog run off [Github Pages](https://pages.github.com). The theme is [Massively](massively link), which I have modified some of the HTML and CSS for to make my own.
+The blog itself is a [Jekyll](https://jekyllrb.com) blog run off [Github Pages](https://pages.github.com). The theme is [Massively](https://github.com/iwiedenm/jekyll-theme-massively-src), which I have modified some of the HTML and CSS for to make my own.
 
 #### Personal Tech
 
