@@ -13,7 +13,7 @@ So why am I writing about this now. Why am I talking about a childhood fear? Bec
 
 Today, writing this, on Thanksgiving Day 2018, Donald Trump, in a fit of imbecilic rage, announced that he is authorizing the use of force on the Mexican border, and is considering outright closing it. Also, today on Thanksgiving Day, I am in Mexico, on the other side of the Mexican border, with plane tickets to go back in a few days.
 
-<blockquote> "Earlier on Thursday, U.S. President Donald Trump said he had authorized the use of lethal force on the border and warned that the United States could close the whole frontier." - [Reuters]() </blockquote>
+<blockquote> "Earlier on Thursday, U.S. President Donald Trump said he had authorized the use of lethal force on the border and warned that the United States could close the whole frontier." - <a href="https://www.reuters.com/article/us-usa-immigration-caravan/tensions-rise-at-u-s-mexico-border-as-migrants-holiday-travelers-wait-to-cross-idUSKCN1NS01A">Reuters</a> </blockquote>
 
 This is everything I feared. It is the reality of so many people, that our President, someone elected who *lost the popular vote* could make one decision and ruin so many lives. But worse, it pulls me back to that kid, home from school, worried that his dad won't come home tonight. Or who sees flashing police lights up ahead and wonders if it will be my last day in the US.
 
