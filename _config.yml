@@ -31,10 +31,10 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   project-incomplete
 
 # Social
-analytics-id:       "default"
+analytics-id:       "UA-131036015-1"
 twitter:            zazathebassist
 facebook:           default
 instagram:          zazathebassist
