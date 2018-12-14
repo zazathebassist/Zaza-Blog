@@ -49,22 +49,22 @@ I'm a gamer, I'm gonna listen to gaming podcasts.
 
 ##### Design, Interest, and Cool Topics
 I honestly have a lot of podcasts in this more documentary style interesting topics. Most of the episodes are evergreen and you can just listen to what interests you. Not all of these are in weekly rotation for me but I will listen when something I'm interested in comes up.
-- [99 Percent Invisible](): A show about design, and specifically designs that are not normally seen or even thought of.
-- [The Pen Addict](): A podcast. About pens. And it's *weekly*. I know right? I love the internet.
-- [Thoroughly Considered](): Another design podcast. This one follows the company Studio Neat through multiple successful and failed kickstarter projects.
-- [Still Untitled: The Adam Savage Project](): The first podcast I heard, before I knew what podcasts were. Adam Savage, former and current Mythbuster, talks nerdy stuff weekly.
+- [99 Percent Invisible](https://99percentinvisible.org/): A show about design, and specifically designs that are not normally seen or even thought of.
+- [The Pen Addict](https://www.relay.fm/penaddict): A podcast. About pens. And it's *weekly*. I know right? I love the internet.
+- [Thoroughly Considered](https://www.relay.fm/tc): Another design podcast. This one follows the company Studio Neat through multiple successful and failed kickstarter projects.
+- [Still Untitled: The Adam Savage Project](https://www.tested.com/still-untitled-the-adam-savage-project/): The first podcast I heard, before I knew what podcasts were. Adam Savage, former and current Mythbuster, talks nerdy stuff weekly.
 
 
 ##### Cool People
 Podcasts that are just cool people. They're not necessarily comedy, but I have enough to justify splitting from Design.
-- [Hello Internet](): This doesn't feel correct in this category but I didn't know where else to put it. CGP Grey is an amazing robot trying to understand humans and him and Brady have a phenomenal chemistry
-- [Analog(ue)](): Myke and Casey Liss talk about their life. They've currently been going over Casey's transition to being self employed.
+- [Hello Internet](http://www.hellointernet.fm/): This doesn't feel correct in this category but I didn't know where else to put it. CGP Grey is an amazing robot trying to understand humans and him and Brady have a phenomenal chemistry
+- [Analog(ue)](https://www.relay.fm/analogue): Myke and Casey Liss talk about their life. They've currently been going over Casey's transition to being self employed.
 
 ##### Fiction Podcasts
 I couldn't put these in good faith with Comedy podcasts, but they're a fantastic mix of interesting audio stories. I'm looking to expand this section as I go
-- [Hello from the Magic Tavern](): A guy from Chicago gets transported to the magical land of *Foon* and instead of going on an adventure... he stay's in a tavern to interview random cool fantasy people.
-- [Welcome to Nightvale](): Probably the most famous fiction podcast, it's a radio show from Nightvale, a place where even time doesn't quite make sense.
-- [Qwerpline](): Another radio show, takes place in the city of Nsberg and all the *odd* things that happen there.
+- [Hello from the Magic Tavern](https://hellofromthemagictavern.com/): A guy from Chicago gets transported to the magical land of *Foon* and instead of going on an adventure... he stay's in a tavern to interview random cool fantasy people.
+- [Welcome to Nightvale](http://www.welcometonightvale.com/): Probably the most famous fiction podcast, it's a radio show from Nightvale, a place where even time doesn't quite make sense.
+- [Qwerpline](https://www.youtube.com/playlist?list=PLV_qemO0oatil7iRtM1JrKybU-VGFa5A7): Another radio show, takes place in the city of Nsberg and all the *odd* things that happen there.
 
 ---
 
@@ -73,29 +73,29 @@ I read a lot online. I have this list just as much for me(RSS has not been a suc
 
 ##### Frequenly Updated
 - [Vice Motherboard](motherboard.vice.com): The largest blog I follow, I mean, it's Vice. What more do I need to say. World class tech reporting. I honestly was very apprehensive putting this on here but, I mean, their content is just *so good*
-- [Six Colors](): Steven Hackett's(of Relay) blog, focusing on Apple and specifically on older Apple machines.
-- [512 Pixels](): Jason Snell, former editor-in-chief of MacWorld, basically continuing what he did there but independently.
-- [MacStories](): Another Apple focused blog, this one focused on more iOS and Automation.
-- [DaringFireball](): More Apple blogs, this one written by veteran and pundit John Gruber
-- [ChannelFireball](): Similar name, but this one is a Magic the Gathering store that has a blog, and some of the best Magic content creators and pros write for them.
-- [MTG Goldfish](): Independent Magic website. SaffronOlive's work is legendary in the Magic community.
-- [Local Musicians Network](): Blog about the local Music scene in Socal ~~I'm a guest writer totally not biased dont @ me~~
+- [Six Colors](https://sixcolors.com/): Steven Hackett's(of Relay) blog, focusing on Apple and specifically on older Apple machines.
+- [512 Pixels](https://512pixels.net/): Jason Snell, former editor-in-chief of MacWorld, basically continuing what he did there but independently.
+- [MacStories](https://www.macstories.net/): Another Apple focused blog, this one focused on more iOS and Automation. Almost everything I know about Apple's Shortcuts app comes from here.
+- [DaringFireball](https://daringfireball.net/): More Apple blogs, this one written by veteran and pundit John Gruber
+- [ChannelFireball](https://www.channelfireball.com/articles/): Similar name, but this one is a Magic the Gathering store that has a blog, and some of the best Magic content creators and pros write for them.
+- [MTG Goldfish](https://www.mtggoldfish.com/articles): Independent Magic website. SaffronOlive's work is legendary in the Magic community.
+- [Local Musicians Network](https://localmusicnet.wordpress.com/): Blog about the local Music scene in Socal ~~I'm a guest writer totally not biased dont @ me~~
 
 ### Infrequently Updated
 I realized this is basically the hosts of ATP's blogs.
-- [Marco.org](): Marco Arment, former Tumblr and Instapaper developer and creator of Overcast. Recently updated with a few reviews but usually fairly audio focused.
-- [Liss is More](): Casey Liss's blog. Recently focused on going independent.
-- [Hypercritical](): John Siracusa's blog. Basically not updated since last year, but Siracusa is a legendary reviewer and writer, and *definitely* lives up to the title of Hypercritical.
+- [Marco.org](https://marco.org/): Marco Arment, former Tumblr and Instapaper developer and creator of Overcast. Recently updated with a few reviews but usually fairly audio focused.
+- [Liss is More](https://www.caseyliss.com/): Casey Liss's blog. Recently focused on going independent.
+- [Hypercritical](http://hypercritical.co/): John Siracusa's blog. Basically not updated since last year, but Siracusa is a legendary reviewer and writer, and *definitely* lives up to the title of Hypercritical.
 
 ---
 
 #### Favorite Apps and Programs
 
 - [Bear](https://bear.app): My *favorite* note taking app. No other app holds up to this in terms of design. 
-- [Omnifocus](): Task management app and where I run my whole life
-- [Atom]()/[MS Visual Studio Code](): Honestly the only good Electron Apps, it really depends which one you prefer. But they are hands down the *best* text editors I have ever used.
-- [Alfred](): Spotlight replacement and insanely powerful tool for Mac
-- [Overcast](): Hands down the best podcast app I've ever used, made by the fantastic Marco Arment
-- [Shortcuts](): Is it cheating to include an Apple made app? Is it still cheating if it's the best automation tool ever?
-- [Instapaper](): Beloved in the tech world, my love affair with Instapaper is *very* recent. But with adding the Chrome extention to all my PCs, it's becoming the only way I read articles
-- [Apollo](): Best reddit app since AlienBlue. Hands, down, no argument, don't @ me
+- [Omnifocus](https://www.omnigroup.com/omnifocus/): Task management app and where I run my whole life
+- [Atom](https://atom.io/)/[MS Visual Studio Code](https://code.visualstudio.com/): Honestly the only good Electron Apps, it really depends which one you prefer. But they are hands down the *best* text editors I have ever used. Atom is my preferred though
+- [Alfred](https://www.alfredapp.com/): Spotlight replacement and insanely powerful tool for Mac
+- [Overcast](https://overcast.fm/): Hands down the best podcast app I've ever used, made by the fantastic Marco Arment
+- [Shortcuts](https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8): Is it cheating to include an Apple made app? Is it still cheating if it's the best automation tool ever?
+- [Instapaper](https://www.instapaper.com/): Beloved in the tech world, my love affair with Instapaper is *very* recent. But with adding the Chrome extention to all my PCs, it's becoming the only way I read articles
+- [Apollo](https://apolloapp.io/): Best reddit app since AlienBlue. Hands, down, no argument, don't @ me
