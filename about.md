@@ -15,9 +15,9 @@ sitemap:
 
 This is a blog and portfolio run and managed by Emmanuel Medina. I am a musician, podcaster, and audio editor out of Southern California.
 
-I am currently an editor for the [Voicing Valiant](https://anchor.fm/voicingvaliant) Podcast, as well as the editor and one of the hosts of [Strike a Chord](https://localmusicnet.wordpress.com/strike-a-chord/), and the editor and host of [Two Dudes and a Dick](https://anchor.fm/two-dudes)(name change pending). Podcasting has become my life, so expect that list to grow.
+I am the former editor for the [Voicing Valiant](https://anchor.fm/voicingvaliant) Podcast, as well as the editor and one of the hosts of [Strike a Chord](https://localmusicnet.wordpress.com/strike-a-chord/), and the editor and host of [Open to Ideas](https://anchor.fm/two-dudes). Podcasting has become my life, so expect that list to grow.
 
-I am also the current bassist and former drummer for [Unstoppable Force](http://unstoppableforce.band) and you can hear my playing drums on the album [Appropriate for Distribution](https://open.spotify.com/album/5XHoS0RDHw5M5Bl8pMIZ07?si=JZvXcc3URuKIJ7dSWK_7qg). Besides that, you can catch Unstoppable Force playing around the Greater LA Metropolitan area, including our fav venues, Chain Reaction, Malones, the Legacy Room, and the Whisky a Go Go. Currently, the band is going in for recording our next EP, so that's something to look out for.
+I am also the current bassist and former drummer for [Unstoppable Force](http://unstoppableforce.band) and you can hear my playing bass on the EP [Momentum](https://open.spotify.com/album/0XDuPSJF1P5PGvy7NedzJX?si=DbyJ-nflS6eN6EHUhuIS4w) drums on the semi-live album [Appropriate for Distribution](https://open.spotify.com/album/5XHoS0RDHw5M5Bl8pMIZ07?si=JZvXcc3URuKIJ7dSWK_7qg). Besides that, you can catch Unstoppable Force playing around the Greater LA Metropolitan area, including our fav venues, Chain Reaction, Malones,  and the Whisky a Go Go. 
 
 
 
@@ -57,5 +57,6 @@ The blog itself is a [Jekyll](https://jekyllrb.com) blog run off [Github Pages](
 #### Personal Tech
 
 - My main computer is a 2017 13" Macbook Air, where this site is written and generated, and where I do the majority of my creative work
-- I have an iPhone 7 that I run betas on cause I'm a masochistic person
+- I have an iPhone 7 that I run betas on cause I'm a masochistic person.
 - Second rig is a custom built Hackintosh desktop running Windows 10 and OSX Sierra. *DO NOT HACKINTOSH DO NOT MAKE MY MISTAKE*
+
