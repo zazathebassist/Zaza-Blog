@@ -7,8 +7,7 @@ categories: gaming reviews
 
 I want to love Elder Scrolls: Blades. I do. I really really do.
 
-[Good image of ES World]
-<div style="text-align:center"><img src="{{ "/images/es-blades/es-title.png" | absolute_url }}" alt="Title Screen - I wish it lived up to the hype of seeing this page" /></div>
+<img style='height: 100%; width: 100%; object-fit: contain' src="{{ "/images/es-blades/es-title.png" | absolute_url }}" alt="Title Screen - I wish it lived up to the hype of seeing this page" />
 
 I'm starting this off by saying that I am a huge fan of the Elder Scrolls series. I have put more hours than I can count into Oblivion and almost as many into Skyrim. Elder Scrolls Online is in my top 5 MMOs. So I wanted, so desperately, for a mobile game to capture the feeling of Elder Scrolls. The massive world, the progression, the sense of exploration, the feeling of almost endless depth (even if that depth is almost irrelevant to the actual game).
 
@@ -20,7 +19,8 @@ Lets start with what the game is. It is a mobile RPG for iOS and Android. You co
 
 ## Controls
 
-![Aaaaaand Walking](/images/es-blades/movement.gif "Everyone turns exactly like that.")
+<img style='height: 100%; width: 100%; object-fit: contain' src="{{ "/images/es-blades/movement.gif" | absolute_url }}" alt="Yes, people turn exactly like that irl" />
+
 
 While this game in many points feels like it was built from the ground up to be a mobile game, it feels like it was built by people who have never played a mobile game. The game can be played both vertically and horizontally. Vertically, swiping on the screen will allow you to look around. Tapping on the ground will move your character. Horizontally this still works, but swiping on what feels like the bottom left 1/8th of the screen will allow you to walk like an analog stick, and swiping on the bottom right 1/8th will move the screen like a right analog stick. This isn't *bad* per se, but it leads to awkwardness.
 The movement with tapping feels far worse than with the virtual analog stick. When tapping on the ground to move, the game will automatically take control of the camera, sometimes hilariously badly. Walking up stairs, the actual view you have is terrible, looking up about 45 degrees, and when you reach the top of the stairs your view stays in that position. If you click something around a corner, the character will strafe in a very unusual way around the corner. It *is* something you can get used to, but definitely annoying. It's definitely more of a “get used to” issue, but still feels like an oversight by the game devs.
@@ -29,14 +29,16 @@ However, in landscape, the game plays very well. The movement is smooth when usi
 
 ### Combat
 
-![Pop the bubble](/images/es-blades/combat.gif "This goblin's having too much fun")
+<img style='height: 100%; width: 100%; object-fit: contain' src="{{ "/images/es-blades/combat.gif" | absolute_url }}" alt="Pop the bubble" />
+
 
 Combat is where this game fully stops feeling like an Elder Scrolls game. You tap and hold to charge an attack, and let go to release it. If you release *just* when the charging circle gets to its ready indicator, you get a critical hit. You also get buttons on the screen for using abilities and Magic. However, it is a far cry from an actual Elder Scrolls game, where you move, run, use abilities, attack, block, and (in Skyrim) using Shouts. Most fights usually end up being “can you tap correctly” and “are you stronger than the enemy” and that’s it. Any depth is lost in the lack of responsiveness.
 
 
 ## Story
 
-![Nothing to see Here](/images/es-blades/story.jpeg "Exploding statues are normal")
+<img style='height: 100%; width: 100%; object-fit: contain' src="{{ "/images/es-blades/story.jpeg" | absolute_url }}" alt="Nothing to see Here" />
+
 
 When you launch the game, you get a quick instance where your character is introduced. In traditional Elder Scrolls fashion, *something* happened and you’re starting life from scratch. Unlike riding a cart to your death, or waking up in a prison, you’re heading home because you were a member of the “Blades” a kind of Secret Service in Tamriel that got disbanded.
 
@@ -46,7 +48,8 @@ Besides this, there are quest missions that further your personal story, discove
 
 ## Town
 
-![Town... needs some repair](/images/es-blades/es-town.png "Fix me please")
+<img style='height: 100%; width: 100%; object-fit: contain' src="{{ "/images/es-blades/es-town.png" | absolute_url }}" alt="Fix me please" />
+
 
 The Town is the Main game mode in ES: Blades. You will go on Quests to rescue town members, or to do tasks that those town members need done (Kill Goblins, Collect Resources, etc.), and get gold and resources that will then help you rebuild the Town. There is a lot to do in the town. You are tasked with rebuilding important buildings like the Blacksmith or Alchemist, which will unlock shops and new weapons/items. And, because this is a mobile Freemium game, the first few buildings are fairly cheap to build, and the price goes up fairly quickly from there, requiring way more time and resources to rebuild. There is also a “Jobs” board that has quests on them, including a Daily and Weekly Quest that has better rewards. These jobs will also drop you into a dungeon instance, just like the quests from town members.
 
@@ -90,7 +93,8 @@ The fact that the game is instanced, while it is definitely necessary for a mobi
 
 It looks like Bethesda is listening though. Between when I started writing this review and right before it went out, I got this push notificaiton.
 
-![I thought I had notifications turned off](/images/es-blades/notification.png "DING!... We're listening")
+<img style='height: 50%; width: 50%; object-fit: contain' src="{{ "/images/es-blades/notification.png" | absolute_url }}" alt="I thought I had notifications turned off" />
+
 
 They are actively trying to do things to make it feel less freemium. This is something I would never expect from a company like(and I hate to pick on them cause they make good games) Supercell. They've also added confirmation screens for spending any large amount of gems(over 11 says their patch notes) and changed percentages on chest drops. This is good news that Bethesda is listening and this game is more than the cash grab it felt like at the beginning.
 
@@ -103,9 +107,9 @@ Honestly, if this game was not an Elder Scrolls game, I would have just ignored 
 Since this is my first review, I had to figure out how I'm gonna rate games. I think an out of Five system works well, especially for iOS games since there's such a range of games, and experience, that anything more granular feels like it'd be too specific to be useful.
 
 ---
-<blockquote>
 
-# Elder Scrolls: Blades - 3/5
+
+## Elder Scrolls: Blades - 3/5
 
  Disclaimer: ES: Blades is in Beta/Early Access and a lot is subject to change. I will add a section about Arena below the final score in an edit once it is released
 
@@ -123,7 +127,7 @@ Since this is my first review, I had to figure out how I'm gonna rate games. I t
 * Weak Combat
 * Difficult to play in short bursts, not enough content for longer gameplay
 
-</blockquote>
+
 
 ---
 
