@@ -19,7 +19,8 @@ Lets start with what the game is. It is a mobile RPG for iOS and Android. You co
 
 ## Controls
 
-<img style='height: 100%; width: 100%; object-fit: contain' src="{{ "/images/es-blades/movement.gif" | absolute_url }}" alt="Yes, people turn exactly like that irl" />
+<img style='height: 100%; width: 100%; object-fit: contain' src="{{ "/images/es-blades/Movement.gif" | absolute_url }}" alt="Yes, people turn exactly like that irl" />
+
 
 
 While this game in many points feels like it was built from the ground up to be a mobile game, it feels like it was built by people who have never played a mobile game. The game can be played both vertically and horizontally. Vertically, swiping on the screen will allow you to look around. Tapping on the ground will move your character. Horizontally this still works, but swiping on what feels like the bottom left 1/8th of the screen will allow you to walk like an analog stick, and swiping on the bottom right 1/8th will move the screen like a right analog stick. This isn't *bad* per se, but it leads to awkwardness.
@@ -29,7 +30,7 @@ However, in landscape, the game plays very well. The movement is smooth when usi
 
 ### Combat
 
-<img style='height: 100%; width: 100%; object-fit: contain' src="{{ "/images/es-blades/combat.gif" | absolute_url }}" alt="Pop the bubble" />
+<img style='height: 100%; width: 100%; object-fit: contain' src="{{ "/images/es-blades/Combat.gif" | absolute_url }}" alt="Pop the bubble" />
 
 
 Combat is where this game fully stops feeling like an Elder Scrolls game. You tap and hold to charge an attack, and let go to release it. If you release *just* when the charging circle gets to its ready indicator, you get a critical hit. You also get buttons on the screen for using abilities and Magic. However, it is a far cry from an actual Elder Scrolls game, where you move, run, use abilities, attack, block, and (in Skyrim) using Shouts. Most fights usually end up being “can you tap correctly” and “are you stronger than the enemy” and that’s it. Any depth is lost in the lack of responsiveness.
