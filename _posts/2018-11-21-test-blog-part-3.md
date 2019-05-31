@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Test Blog Part 3!"
 date:   2018-11-21 02:39:53 -0700
 categories: project update

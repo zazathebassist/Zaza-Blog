@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Back to Living in Fear"
 date:   2018-11-23 00:00:00 -0700
 categories: personal

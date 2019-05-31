@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Accidental Disconnect from the Internet"
 date:   2018-12-29 00:00:00 -0700
 categories: personal
