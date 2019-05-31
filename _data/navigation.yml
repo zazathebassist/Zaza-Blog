@@ -1,0 +1,13 @@
+main:
+  - title: "Blog"
+    url: /
+
+  - title: "About"
+    url: /about/
+
+  - title: "Links and Resources"
+    url: /links-and-resources/
+
+  - title: "Quick Start Guide"
+    url: /https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
+
