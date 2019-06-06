@@ -1,5 +1,6 @@
 ---
-layout: posts
+toc: true
+toc_label: Contents
 title:  "iOS Game Reviews: Elder Scrolls Blades"
 date:   2019-04-11 00:00:00 -0700
 categories: gaming reviews
@@ -95,7 +96,6 @@ The fact that the game is instanced, while it is definitely necessary for a mobi
 It looks like Bethesda is listening though. Between when I started writing this review and right before it went out, I got this push notificaiton.
 
 <img style='height: 50%; width: 50%; object-fit: contain' src="{{ "/images/es-blades/notification.png" | absolute_url }}" alt="I thought I had notifications turned off" />
-
 
 They are actively trying to do things to make it feel less freemium. This is something I would never expect from a company like(and I hate to pick on them cause they make good games) Supercell. They've also added confirmation screens for spending any large amount of gems(over 11 says their patch notes) and changed percentages on chest drops. This is good news that Bethesda is listening and this game is more than the cash grab it felt like at the beginning.
 

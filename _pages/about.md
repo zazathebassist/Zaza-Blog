@@ -8,13 +8,10 @@ sitemap:
     priority: 0.7
     lastmod: 2018-11-21
 ---
-
-## About
-
-<span class="image left"><img src="{{ "/images/zaza.jpg" | absolute_url }}" alt="" /></span>
-
+<!-- ## About -->
+<!-- <span class="image left"><img src="{{ "/images/zaza.jpg" | absolute_url }}" alt="" /></span>
 <!-- ![I have to post an image of me... don't judge](/images/zaza.jpg "Me the Musician... I guess") -->
-
+![image-left](/images/zaza.jpg){: .align-left} 
 This is a blog and portfolio run and managed by Emmanuel Medina. I am a musician, podcaster, and audio editor out of Southern California.
 
 I am the former editor for the [Voicing Valiant](https://anchor.fm/voicingvaliant) Podcast, as well as the editor and one of the hosts of [Strike a Chord](https://localmusicnet.wordpress.com/strike-a-chord/), and the editor and host of [Open to Ideas](https://anchor.fm/two-dudes). Podcasting has become my life, so expect that list to grow.
@@ -24,11 +21,7 @@ I am also the current bassist and former drummer for [Unstoppable Force](http://
 
 
 <!---### Content is Important--->
-<div class="box">
-  <p>
-  Besides those experiments in media, I will be working hard to increase my written content output. Content about Music will go to the Local Musicians Network, and tech and feels content will go here.
-  </p>
-</div>
+<blockquote> Besides those experiments in media, I will be working hard to increase my written content output. Content about Music will go to the Local Musicians Network, and tech and feels content will go here. </blockquote>
 
 <!--span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span-->
 
@@ -54,7 +47,7 @@ You can find me on social media, mostly out of obligation, but also because I ju
 
 #### Blog Tech
 
-The blog itself is a [Jekyll](https://jekyllrb.com) blog run off [Github Pages](https://pages.github.com). The theme is [Massively](https://github.com/iwiedenm/jekyll-theme-massively-src), which I have modified some of the HTML and CSS for to make my own.
+The blog itself is a [Jekyll](https://jekyllrb.com) blog run off [Github Pages](https://pages.github.com). <!-- The theme is [Massively](https://github.com/iwiedenm/jekyll-theme-massively-src), which I have modified some of the HTML and CSS for to make my own. --> The theme is [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/). I swapped to it from [Massively](https://github.com/iwiedenm/jekyll-theme-massively-src) because I wanted something more customizable with a dark mode.
 
 #### Personal Tech
 

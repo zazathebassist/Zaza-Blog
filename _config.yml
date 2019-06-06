@@ -13,15 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:          Critical Mess
+
+title:          Project Incomplete
+name:           Emmanuel Medina
 email: 
 bio:            "Emmanuel Medina's Personal Blog, Portfolio, and page to mess around"
 description:    "Emmanuel Medina's Personal Blog, Portfolio, and page to mess around"
 locale:         en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "zaza.studio" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zaza.studio" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zazathebassist
 github_username:  zazathebassist
+# repository: "username/repo-name"
+
 
 # Build settings
 permalink:          /blog/:title/
@@ -33,7 +37,6 @@ kramdown:
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
-#theme: minimal-mistakes-jekyll
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 include: ["_pages"]
@@ -45,8 +48,6 @@ plugins:
   - jemoji
 
 # Personal Modifications
-
-# repository: zazathebassist.github.io
 
 search: true
 
@@ -62,6 +63,13 @@ defaults:
       comments: true
       share: true
       related: true
+      toc: true
+      toc_label: "Contents"
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 comments:
   provider: "disqus"
@@ -75,10 +83,22 @@ author:
   avatar   : "/images/zaza.jpg"
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Inland Empire, CA, USA" 
+  links:
+    - label:  "Project Incomplete"
+      icon: "fas fa-fw fa-link"
+      url: "https://zaza.studio"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/zazathebassist"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zazathebassist"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/zazathebassist"
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-
 
 footer:
   links:
