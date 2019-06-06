@@ -3,6 +3,7 @@ layout: posts
 title:  "Test Blog Part 3!"
 date:   2018-11-21 02:39:53 -0700
 categories: project update
+toc: false
 ---
 
 <blockquote> I've had two blogs, and abandoned both. So... I'm launching my third blog... What am I Doing Here. </blockquote>

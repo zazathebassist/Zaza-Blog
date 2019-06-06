@@ -3,6 +3,7 @@ layout: posts
 title:  "Coming Back to Magic"
 date:   2018-12-05 00:00:00 -0700
 categories: personal games magic
+toc: false
 ---
 
 I left Magic about two years ago. It was a slow fade, and once I was done I thought I was out. I thought I quit this Cardboard Crack

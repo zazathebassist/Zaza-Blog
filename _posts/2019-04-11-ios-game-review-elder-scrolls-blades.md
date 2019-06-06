@@ -1,5 +1,4 @@
 ---
-toc: true
 toc_label: Contents
 title:  "iOS Game Reviews: Elder Scrolls Blades"
 date:   2019-04-11 00:00:00 -0700

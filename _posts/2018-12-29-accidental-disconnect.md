@@ -2,6 +2,7 @@
 title:  "Accidental Disconnect from the Internet"
 date:   2018-12-29 00:00:00 -0700
 categories: personal
+toc: false
 ---
 
 It's been an odd month or two for me. For the first time in as long as I can remember, I've been mostly disconnected from the internet.

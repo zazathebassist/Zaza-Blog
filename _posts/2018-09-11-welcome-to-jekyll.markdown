@@ -3,6 +3,7 @@ layout: posts
 title:  "Welcome to Jekyll!"
 date:   2018-09-11 02:39:53 -0700
 categories: jekyll update
+toc: false
 ---
 
 <blockquote> I am leaving this default page up, both because I really like Jekyll and want to emphasize that this blog was done in Jekyll and anyone can do it... and it serves as good documentation for me. </blockquote>  

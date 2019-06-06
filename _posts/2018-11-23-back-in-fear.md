@@ -3,6 +3,7 @@ layout: posts
 title:  "Back to Living in Fear"
 date:   2018-11-23 00:00:00 -0700
 categories: personal
+toc: false
 ---
 
 When I was a kid, I had one big fear. Most kids were scared of heights, or the dark, or the monster under the bed. I was scared of being pulled over. I was scared that the cops were going to take away my mom and dad.
