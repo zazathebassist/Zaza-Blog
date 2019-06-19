@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Critical Mess - About
+title: Critical Point - About
 description: Personal Blog, Portfolio, and Random project hosting by Emmanuel Medina
 permalink: /about/
 author_profile: true
@@ -14,7 +14,7 @@ sitemap:
 ![image-left](/images/zaza.jpg){: .align-left} 
 This is a blog and portfolio run and managed by Emmanuel Medina. I am a musician, podcaster, and audio editor out of Southern California.
 
-I am the former editor for the [Voicing Valiant](https://anchor.fm/voicingvaliant) Podcast, as well as the editor and one of the hosts of [Strike a Chord](https://localmusicnet.wordpress.com/strike-a-chord/), and the editor and host of [Open to Ideas](https://anchor.fm/two-dudes). Podcasting has become my life, so expect that list to grow.
+I am the former editor for the [Voicing Valiant](https://anchor.fm/voicingvaliant) Podcast, as well as the editor and one of the hosts of [Strike a Chord](https://localmusicnet.wordpress.com/strike-a-chord/), and the editor and host of [Open to Ideas](https://anchor.fm/two-dudes). These projects are temporarily on pause due to life but will continue.
 
 I am also the current bassist and former drummer for [Unstoppable Force](http://unstoppableforce.band) and you can hear my playing bass on the EP [Momentum](https://open.spotify.com/album/0XDuPSJF1P5PGvy7NedzJX?si=DbyJ-nflS6eN6EHUhuIS4w) drums on the semi-live album [Appropriate for Distribution](https://open.spotify.com/album/5XHoS0RDHw5M5Bl8pMIZ07?si=JZvXcc3URuKIJ7dSWK_7qg). Besides that, you can catch Unstoppable Force playing around the Greater LA Metropolitan area, including our fav venues, Chain Reaction, Malones, and the Whisky a Go Go. 
 

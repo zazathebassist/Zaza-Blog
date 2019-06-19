@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:          Project Incomplete
+title:          Critical Point
 name:           Emmanuel Medina
 email: 
 bio:            "Emmanuel Medina's Personal Blog, Portfolio, and page to mess around"
@@ -81,10 +81,10 @@ comments:
 author:
   name     : "Emmanuel Medina"
   avatar   : "/images/zaza.jpg"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
+  bio      : "I struggle to call myself an artist so I'm a *content creator*"
   location : "Inland Empire, CA, USA" 
   links:
-    - label:  "Project Incomplete"
+    - label:  "Critical Point"
       icon: "fas fa-fw fa-link"
       url: "https://zaza.studio"
     - label: "Twitter"
