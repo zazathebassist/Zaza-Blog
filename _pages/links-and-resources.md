@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Critical Mess - Links and Resources
+title: Links and Resources
 description: Personal Blog, Portfolio, and Random project hosting by Emmanuel Medina
 permalink: /links-and-resources/
 author_profile: true
@@ -29,8 +29,8 @@ By far the largest category
 - [Connected](https://www.relay.fm/connected): Weekly tech show. Just a really fun listen. Covers mostly the same topics as ATP and Upgrade, but the hosts are so fun.
 - [Upgrade](https://www.relay.fm/upgrade): Podcast with prolific podcaster Myke, and Apple veteran and former MacWorld editor-in-chief Jason Snell. Very well done, highly informational, and basically the only tech show that also covers online streaming media like Netflix, Hulu, and the upcoming Apple streaming service.
 - [Roboism](https://www.relay.fm/roboism): Two awesome gals talk about robots. That's it. Listen now.
-- [The Talk Show with John Gruber](https://daringfireball.net/thetalkshow/): One of the oldest runnign podcasts, John Gruber is a veteran of the tech world, and brings in wildly different, talented, and knowledgeable guests.
-- [Cortex](https://www.relay.fm/cortex): Robot-disguised-as-youtuber CGP Grey and Myke talk about... what is supposed to be productivity but ends up being vitual truck driving and email clients. It's fantastic.
+- [The Talk Show with John Gruber](https://daringfireball.net/thetalkshow/): One of the oldest running podcasts, John Gruber is a veteran of the tech world, and brings in wildly different, talented, and knowledgeable guests.
+- [Cortex](https://www.relay.fm/cortex): Robot-disguised-as-youtuber CGP Grey and Myke talk about... what is supposed to be productivity but ends up being virtual truck driving and email clients. It's fantastic.
 - [Honestly most of the Relayverse](https://www.relay.fm/shows): Relay has a bunch of tech shows. I obviously have a bias towards Apple but there's shows on Google/Android, general tech, robots, rockets, and pens.
 
 ##### Gaming Podcasts
@@ -88,7 +88,7 @@ I realized this is basically the hosts of ATP's blogs.
 
 #### Favorite Apps and Programs
 
-- [Bear](https://bear.app): My *favorite* note taking app. No other app holds up to this in terms of design. 
+- [Bear](https://bear.app): My *favorite* note taking app. No other app holds up to this in terms of design.
 - [Omnifocus](https://www.omnigroup.com/omnifocus/): Task management app and where I run my whole life
 - [Atom](https://atom.io/)/[MS Visual Studio Code](https://code.visualstudio.com/): Honestly the only good Electron Apps, it really depends which one you prefer. But they are hands down the *best* text editors I have ever used. Atom is my preferred though
 - [Alfred](https://www.alfredapp.com/): Spotlight replacement and insanely powerful tool for Mac

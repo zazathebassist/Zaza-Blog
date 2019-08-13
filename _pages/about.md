@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Critical Point - About
+title: About
 description: Personal Blog, Portfolio, and Random project hosting by Emmanuel Medina
 permalink: /about/
 author_profile: true
@@ -11,12 +11,12 @@ sitemap:
 <!-- ## About -->
 <!-- <span class="image left"><img src="{{ "/images/zaza.jpg" | absolute_url }}" alt="" /></span>
 <!-- ![I have to post an image of me... don't judge](/images/zaza.jpg "Me the Musician... I guess") -->
-![image-left](/images/zaza.jpg){: .align-left} 
+![image-left](/images/zaza.jpg){: .align-left}
 This is a blog and portfolio run and managed by Emmanuel Medina. I am a musician, podcaster, and audio editor out of Southern California.
 
 I am the former editor for the [Voicing Valiant](https://anchor.fm/voicingvaliant) Podcast, as well as the editor and one of the hosts of [Strike a Chord](https://localmusicnet.wordpress.com/strike-a-chord/), and the editor and host of [Open to Ideas](https://anchor.fm/two-dudes). These projects are temporarily on pause due to life but will continue.
 
-I am also the current bassist and former drummer for [Unstoppable Force](http://unstoppableforce.band) and you can hear my playing bass on the EP [Momentum](https://open.spotify.com/album/0XDuPSJF1P5PGvy7NedzJX?si=DbyJ-nflS6eN6EHUhuIS4w) drums on the semi-live album [Appropriate for Distribution](https://open.spotify.com/album/5XHoS0RDHw5M5Bl8pMIZ07?si=JZvXcc3URuKIJ7dSWK_7qg). Besides that, you can catch Unstoppable Force playing around the Greater LA Metropolitan area, including our fav venues, Chain Reaction, Malones, and the Whisky a Go Go. 
+I am also the current bassist and former drummer for [Unstoppable Force](http://unstoppableforce.band) and you can hear my playing bass on the EP [Momentum](https://open.spotify.com/album/0XDuPSJF1P5PGvy7NedzJX?si=DbyJ-nflS6eN6EHUhuIS4w) drums on the semi-live album [Appropriate for Distribution](https://open.spotify.com/album/5XHoS0RDHw5M5Bl8pMIZ07?si=JZvXcc3URuKIJ7dSWK_7qg). Besides that, you can catch Unstoppable Force playing around the Greater LA Metropolitan area, including frequent venues like the Whisky a Go Go, Malones, the Doll Hut, Chain Reaction, and more.
 
 
 
@@ -52,5 +52,5 @@ The blog itself is a [Jekyll](https://jekyllrb.com) blog run off [Github Pages](
 #### Personal Tech
 
 - My main computer is a 2017 13" Macbook Air, where this site is written and generated, and where I do the majority of my creative work
-- I have an iPhone 7 that I run betas on cause I'm a masochistic person.
+- I have an iPhone 7 that I run betas on cause I hate battery life. 
 - Second rig is a custom built Hackintosh desktop running Windows 10 and OSX Sierra. *DO NOT HACKINTOSH DO NOT MAKE MY MISTAKE*

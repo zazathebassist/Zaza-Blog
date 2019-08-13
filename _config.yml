@@ -16,11 +16,11 @@
 
 title:          Critical Point
 name:           Emmanuel Medina
-email: 
+email:
 bio:            "Emmanuel Medina's Personal Blog, Portfolio, and page to mess around"
 description:    "Emmanuel Medina's Personal Blog, Portfolio, and page to mess around"
 locale:         en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://zaza.studio" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zazathebassist
 github_username:  zazathebassist
@@ -82,7 +82,7 @@ author:
   name     : "Emmanuel Medina"
   avatar   : "/images/zaza.jpg"
   bio      : "I struggle to call myself an artist so I'm a *content creator*"
-  location : "Inland Empire, CA, USA" 
+  location : "Inland Empire, CA, USA"
   links:
     - label:  "Critical Point"
       icon: "fas fa-fw fa-link"
@@ -111,4 +111,3 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/zazathebassist"
-
