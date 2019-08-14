@@ -39,8 +39,8 @@ gallery2:
       image_path: /images/portfolio/strikeachord.jpg
       alt: "Show Art for Strike a Chord"
       title: "Show Art for Strike a Chord"
-    - url: /images/portfolio/OpenToIdeas.png
-      image_path: /images/portfolio/OpenToIdeas.png
+    - url: /images/portfolio/OpenToIdeas.PNG
+      image_path: /images/portfolio/OpenToIdeas.PNG
       alt: "Show Art for Open to Ideas"
       title: "Show Art for Open to Ideas"
     - url: /images/portfolio/StepsPodArt.png
