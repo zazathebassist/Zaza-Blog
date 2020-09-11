@@ -52,5 +52,5 @@ The blog itself is a [Jekyll](https://jekyllrb.com) blog run off [Github Pages](
 #### Personal Tech
 
 - My main computer is a 2017 13" Macbook Air, where this site is written and generated, and where I do the majority of my creative work
-- I have an iPhone 7, mostly for photography and playing way too much Mini Motorways.
+- I have an iPhone 11, mostly for photography and playing way too much Mini Motorways and holedown.
 - Second rig is a custom built Hackintosh desktop running Windows 10 and OSX Sierra. *DO NOT HACKINTOSH DO NOT MAKE MY MISTAKE*.

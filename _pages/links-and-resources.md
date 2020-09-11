@@ -6,7 +6,7 @@ permalink: /links-and-resources/
 author_profile: true
 sitemap:
     priority: 0.7
-    lastmod: 2018-11-21
+    lastmod: 2020-09-10
 ---
 
 A lot of blogs have a quick list of things they like. Well, here are the things I like. If you like me, or my content, or you want to know how my brain got to how it is, here you go.
@@ -21,14 +21,12 @@ It's no secret that I *love* podcasts. No. I **really love** podcasts. So I made
 ##### Comedy Podcasts
 I'll start here because there's a few but they're all must listens
 - [My Brother My Brother and Me](http://www.maximumfun.org/shows/my-brother-my-brother-and-me): An *"advice"* show for the modren era. It takes the format of old write in/call in advice shows, but has the funniest twists and turns. The chemistry between the McElroys is legendary and is so fun to listen to week after week.
-- [Do By Friday](http://dobyfriday.com/): A weekly challenge podcast with Cards Against Humanity cocreator Max Temkin, Cards' main HDMI cable organizer Alex Cox, and person who used to be Merlin Mann... Merlin Mann. Hilarious, frequently political but in a funny way, and the podcast I look forward to the most each week.
 
 ##### Tech Podcasts
 By far the largest category
 - [ATP: The Accidental Tech Podcast](http://atp.fm/): The best tech podcast, period. Marco, Casey, and John have such a chemistry, and are so knowledgeable on so many topics. Plus they got the best theme songs and aftershows.
 - [Connected](https://www.relay.fm/connected): Weekly tech show. Just a really fun listen. Covers mostly the same topics as ATP and Upgrade, but the hosts are so fun.
 - [Upgrade](https://www.relay.fm/upgrade): Podcast with prolific podcaster Myke, and Apple veteran and former MacWorld editor-in-chief Jason Snell. Very well done, highly informational, and basically the only tech show that also covers online streaming media like Netflix, Hulu, Apple+, Disney+, and any upcoming streaming services.
-- [Roboism](https://www.relay.fm/roboism): Two awesome people talk about robots. That's it. Listen now.
 - [The Talk Show with John Gruber](https://daringfireball.net/thetalkshow/): One of the oldest running podcasts, John Gruber is a veteran of the tech world, and brings in wildly different, talented, and knowledgeable guests.
 - [Cortex](https://www.relay.fm/cortex): Robot-disguised-as-youtuber CGP Grey and Myke talk about... what is supposed to be productivity but ends up being virtual truck driving and email clients. It's fantastic.
 - [Honestly most of the Relayverse](https://www.relay.fm/shows): Relay has a bunch of tech shows. I obviously have a bias towards Apple but there's shows on Google/Android, general tech, robots, rockets, and pens.
@@ -56,7 +54,6 @@ I honestly have a lot of podcasts in this more documentary style interesting top
 Podcasts that are just cool people. They're not necessarily comedy, but I have enough to justify splitting from Design.
 - [Hello Internet](http://www.hellointernet.fm/): This doesn't feel correct in this category but I didn't know where else to put it. CGP Grey is an amazing robot trying to understand humans and him and Brady have a phenomenal chemistry
 - [Analog(ue)](https://www.relay.fm/analogue): Myke and Casey Liss talk about their life. They've currently been going over Casey's transition to being self employed.
-- [Two-Headed Girl](https://twoheadedgirl.transistor.fm/): Alex Cox and their partner Mattie Cox go into Mattie's transition and talk in general about gender, mental illness, transitions, and more. Warning, this podcast may make you cry.
 
 ##### Fiction Podcasts
 I couldn't put these in good faith with Comedy podcasts, but they're a fantastic mix of interesting audio stories. I'm looking to expand this section as I go
@@ -69,7 +66,7 @@ I couldn't put these in good faith with Comedy podcasts, but they're a fantastic
 #### Blogs to Follow
 I read a lot online. I have this list just as much for me(RSS has not been a successful experiment in the past), and anyone wanting to know where I get most of my shit. I won't include sites like Ars, Wired, the Verge, or others because those are more magazines than anything. This list will definitely grow
 
-##### Frequenly Updated
+##### Tech - Frequenly Updated
 - [Vice Motherboard](motherboard.vice.com): The largest blog I follow, I mean, it's Vice. What more do I need to say. World class tech reporting. I honestly was very apprehensive putting this on here but, I mean, their content is just *so good*
 - [Six Colors](https://sixcolors.com/): Steven Hackett's(of Relay) blog, focusing on Apple and specifically on older Apple machines.
 - [512 Pixels](https://512pixels.net/): Jason Snell, former editor-in-chief of MacWorld, basically continuing what he did there but independently.
@@ -79,7 +76,7 @@ I read a lot online. I have this list just as much for me(RSS has not been a suc
 - [MTG Goldfish](https://www.mtggoldfish.com/articles): Independent Magic website. SaffronOlive's work is legendary in the Magic community.
 - [Local Musicians Network](https://localmusicnet.wordpress.com/): Blog about the local Music scene in Socal ~~I'm a guest writer totally not biased dont @ me~~
 
-### Infrequently Updated
+### Tech - Infrequently Updated
 I realized this is basically the hosts of ATP's blogs.
 - [Marco.org](https://marco.org/): Marco Arment, former Tumblr and Instapaper developer and creator of Overcast. Recently updated with a few reviews but usually fairly audio focused.
 - [Liss is More](https://www.caseyliss.com/): Casey Liss's blog. Recently focused on going independent.
@@ -89,11 +86,10 @@ I realized this is basically the hosts of ATP's blogs.
 
 #### Favorite Apps and Programs
 
-- [Bear](https://bear.app): My *favorite* note taking app. No other app holds up to this in terms of design.
-- [Omnifocus](https://www.omnigroup.com/omnifocus/): Task management app and where I run my whole life
+- [Darkroom](https://darkroom.co/): iPhone and iPad native photo editing app. I was a big believer in Lightroom. Being able to have such powerful editing on my primary camera is making me fully leave Lightroom for this.
+- [Drafts](https://getdrafts.com/): My new *favorite* note taking and processing app. The its simple design hides the absolute power this app has. And the minimalism gets out of the way so that I can do my work and not worry about my tools.
 - [Atom](https://atom.io/)/[MS Visual Studio Code](https://code.visualstudio.com/): Honestly the only good Electron Apps, it really depends which one you prefer. But they are hands down the *best* text editors I have ever used. Atom is my preferred though
 - [Alfred](https://www.alfredapp.com/): Spotlight replacement and insanely powerful tool for Mac
 - [Overcast](https://overcast.fm/): Hands down the best podcast app I've ever used, made by the fantastic Marco Arment
 - [Shortcuts](https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8): Is it cheating to include an Apple made app? Is it still cheating if it's the best automation tool ever?
-- [Instapaper](https://www.instapaper.com/): Beloved in the tech world, my love affair with Instapaper is *very* recent. But with adding the Chrome extention to all my PCs, it's becoming the only way I read articles
 - [Apollo](https://apolloapp.io/): Best reddit app since AlienBlue. Hands, down, no argument, don't @ me
