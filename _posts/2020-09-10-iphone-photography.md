@@ -1,14 +1,16 @@
 ---
 toc_label: Contents
-title:  "iPhone Photography, and Finding Photography Again"
-date:   2020-01-01 00:00:00 -0700
-categories: personal games
+title:  "Darkroom Diary: iPhone Photography, and Finding Photography Again"
+date:   2020-09-10 00:00:00 -0700
+categories: personal photography darkroom-diary
 ---
 I was very into photography a few years ago. Decent DSLR, lenses, accessories, the whole deal. But for various reasons my love of photography left me. The camera was too heavy to bring, I wasn't good enough, and I had some personal reasons. So I kinda stopped photography. The DSLR was sold off. My film camera is in a box somewhere. It all just... stopped.
 
 That changed when I got my iPhone 11.
 
 ![Ranch Fire](/images/iphone-photo/ranchfire.jpg)
+<sub>Ranch Fire in Socal 2020</sub>
+
 
 Swapping to this phone, it genuinely feels like I can just pull my phone out and get the shot I want. My phone feels like a standalone camera while in the camera app. AND I HAVE A WIDE ANGLE LENS. Sure your 300mm lens is cool, a nifty 50mm is a delight to shoot with, but give me something under 24mm any day. And the wide angle is a 13mm equivalent. *Yes. Please.*
 
@@ -17,6 +19,8 @@ Lemme go over the specs real quick before I get into why I'm going back to shoot
 ## Camera Specs
 
 ![iPhone Camera](/images/iphone-photo/cameras.jpg)
+<sub>Taken with iPhone 10</sub>
+
 
 The iPhone 11 has two cameras in it. The 11 Pro has three. The regular camera is a 12MP 26mm equivalent, the wide angle is a 13mm equivalent, and the telephoto in the Pro is a 52mm equivalent. All with built in optical stabilization.
 
