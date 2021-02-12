@@ -1,11 +1,9 @@
 ---
-title:  "2021: Year of Discovery"
+title:  "Yearly Theme 2021: Year of Discovery"
 date:   2021-02-06 00:00:00 -0700
 categories: personal
 toc: false
 ---
-
-# Yearly Theme: Year of Discovery
 
 So, 2020 sucked. I have been doing yearly themes since I believe 2015 and 2020 is the only year where I completely lost track of my theme. I don't think I need to go into why ~~covid~~ but it's time to get back on the train.
 
